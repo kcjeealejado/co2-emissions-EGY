@@ -16,11 +16,18 @@ https://owid-public.owid.io/data/co2/owid-co2-data.csv
 
 ## 4. Analysis and Interpretation
 
-The analysis covers 35 years, from 1990 to 2024. Based on the results, Egypt recorded a mean annual CO2 emission value of 175.6241, while the total across the study period was 6146.843. These values represent the annual observations included in the dataset.
+## 4. Analysis and Interpretation
 
-The annual CO2 emissions graph shows how Egypt's emissions changed over time. The per capita graph presents emissions in relation to the country's population, while the annual percentage change graph shows the year-to-year increase or decrease in emissions. Together, these graphs provide different ways to examine the country's emissions trend.
+The analysis covers Egypt's CO2 emissions from 1990 to 2024, consisting of 35 annual observations. In 1990, Egypt recorded approximately 74.31 million tonnes of CO2 emissions. By 2024, this increased to approximately 240.46 million tonnes. This represents an increase of about 223.6% over the study period.
 
-The results describe the pattern of CO2 emissions but do not explain the specific causes of the changes. Population growth, energy use, industrial activities, and other factors may influence emissions, but these were not tested in this analysis.
+The computed mean annual CO2 emissions were 175.6241 million tonnes, while the sum of annual emissions was 6146.843 million tonnes. The highest annual emission in the dataset occurred in 2021, reaching approximately 265.24 million tonnes. Emissions then decreased in 2022 and 2023 before increasing again in 2024.
+
+The CO2 emissions per capita graph shows that emissions per person also increased, from approximately 1.27 tonnes per person in 1990 to 2.06 tonnes per person in 2024. This indicates that the increase was not only reflected in total national emissions but also in the per-person measure.
+
+The annual percentage change graph presents the yearly fluctuations. For example, emissions decreased by approximately 6.24% in 2022 and 6.86% in 2023, followed by an increase of about 3.81% in 2024.
+
+Overall, the results show a general increase in Egypt's CO2 emissions over the 35-year period, although some years experienced decreases. These findings describe the observed trend but do not identify its causes. Factors such as population growth, energy demand, and industrial activities may influence emissions, but these were not examined in this project.
+
 
 ## 5. Analysis Outputs
 
